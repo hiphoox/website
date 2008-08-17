@@ -1,2 +1,3 @@
 This is the main repo for the company's web site.
-It includes webby source code so we can generate a static site and the WordPress template. 
+It includes webby source code (echoes directory) so we can generate a static site and the WordPress template.
+It also includes the original design and word press template (original directory)
