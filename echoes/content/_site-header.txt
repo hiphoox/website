@@ -7,7 +7,7 @@ filter: erb
 <a href="index-2.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/menu_button_3_sel.jpg',1)"><img src="images/menu_button_3.jpg" alt="" width="115" height="34" id="Image3" /></a>
 <a href="index-3.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','images/menu_button_4_sel.jpg',1)"><img src="images/menu_button_4.jpg" alt="" width="115" height="34" id="Image4" /></a>
 <a href="index-4.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/menu_button_5_sel.jpg',1)"><img src="images/menu_button_5.jpg" alt="" width="115" height="34" id="Image5" /></a>
-<a href="index-5.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/menu_button_6_sel.jpg',1)"><img src="images/menu_button_6.jpg" alt="" width="115" height="34" id="Image6" /></a>        
+<a href="about.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/menu_button_6_sel.jpg',1)"><img src="images/menu_button_6.jpg" alt="" width="115" height="34" id="Image6" /></a>        
         </div>
   		<div class="logo">
         	<form id="head_form" action="" enctype="multipart/form-data">
