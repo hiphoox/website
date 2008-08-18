@@ -30,9 +30,10 @@ a{color:#555555; text-decoration:underline;}
 a:hover{text-decoration:none;}
 
 /*=======header===========*/
-.header_bg{background:url(../images/header_bg.gif) left top repeat-x #4d3331;}
+.header_bg{background:#000000;}
 .menu{height:60px; margin-left:145px;}
 .menu img{margin-right:2px;}
+
 .logo{height:89px; background:url(../images/StoneFree.png) left top no-repeat;  margin:0 145px;}
 
 #head_form{width:243px; overflow:hidden; float:right; margin-top:16px;}
@@ -50,7 +51,7 @@ a:hover{text-decoration:none;}
 /*=====//content===========*/
 
 /*=======content_2===========*/
-.content_2_bg{background:url(../images/content_2_bg.gif) left bottom repeat-x #E9DBA7; width:100%;}
+.content_2_bg{background: #E9DBA7; width:100%;}
 #content_2{padding:26px 145px 34px 148px;}
 
 #content_2 .mid{background:url(../images/line_y_2.gif) center top repeat-y;}
@@ -65,7 +66,7 @@ a:hover{text-decoration:none;}
 /*=====//content_2===========*/
 
 /*=======content_3===========*/
-.content_3_bg{background:url(../images/content_3_bg.gif) left bottom repeat-x #F4EDD3; width:100%;}
+.content_3_bg{background: #F4EDD3; width:100%;}
 #content_3{padding:25px 133px 41px 148px;}
 
 #content_3 .col_1, #content_3 .col_2{padding-top:13px; padding-bottom:10px;}
